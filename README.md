@@ -10,12 +10,13 @@
 ***
 
 ## 🦄 About Me
-- 🎓 CSE undergrad at <strong>JNTU Hyderabad</strong> (CGPA: 9.12)[1]
+- 🎓 CSE undergrad at <strong>JNTU Hyderabad</strong> (CGPA: 9.12)
 - 💻 Developer | Problem Solver | Curious Learner
 - 🚀 Love to build ML & web projects; always exploring new tech!
 - 📚 Fiction reader | 🎨 Occasional sketcher | ⌨️ Typing buff (104 WPM!)  
   <a href="https://monkeytype.com/profile/AKKI_typer" target="_blank">Monkeytype Profile</a>
 - 🌟 Hackathon participant: Honeywell Campus Connect Hackathon 2025 (results awaited!)
+- checkout my portfolio here - <a href="https://akshithaportfolio.vercel.app/" target="_blank">Portfolio</a>
 
 ***
 
